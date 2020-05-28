@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+.vscode/
+checkpoints/
+checkpoints_lakh/
+data/
+lmd_matched/
+midi/
+sample\ outputs/
+*.mid
